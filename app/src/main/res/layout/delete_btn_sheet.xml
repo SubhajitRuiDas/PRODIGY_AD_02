@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+
+    android:id="@+id/deleteSheet">
+
+    <View
+        android:layout_width="100dp"
+        android:layout_height="6dp"
+        android:layout_margin="12dp"
+        android:background="@drawable/delete_bar_shape"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="15dp"
+        android:text="@string/delete_permission"
+        android:gravity="center"
+        android:textColor="@color/black_og"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/delete_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black_og"
+        android:text="No"
+        android:textSize="18sp"
+        android:background="@drawable/no_button_delete_option"
+        android:padding="7dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/delete_yes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black_og"
+        android:text="Yes"
+        android:textSize="18sp"
+        android:background="@drawable/yes_delete_button_option"
+        android:padding="7dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="16dp"
+        />
+
+</LinearLayout>

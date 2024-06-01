@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF5151</color>
+    <color name="black_og">#FA040000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF5151</color>
+    <color name="yellow">#D9D92F</color>
+    <color name="green">#11D99B</color>
+    <color name="status_bar_color">#FF5151</color>
+    <color name="your_actionbar_color">#FF5151</color>
+    <color name="your_actionbar_variant_color">#FF5151</color>
+    <color name="grey">#E8E8E8</color>
+</resources>
