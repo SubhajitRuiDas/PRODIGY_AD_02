@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MyNotesKeepingApp</string>
-    <string name="lower_description">By\n Android Developer Subhajit RuiDas</string>
+    <string name="lower_description">By\n Android Developer Subhajit Ruidas</string>
     <string name="notes_app_name">Notes App</string>
     <string name="notes_caption">Life is too fast don\'t forget anything\n just Note it</string>
     <string name="titles">Title ....</string>
